@@ -17,4 +17,4 @@ Finally, the program asks if the customer wants to make another order, and if he
 
 
 
-This is a very simplified explanation of the operating of this project, so if you fell that there's anything that I should have explained more clearly or more in detail, please feel free to let me know!
+This is a very simplified explanation of the operating of this project, so if you feel that there's anything that I should have explained more clearly or more in detail, please feel free to let me know!
