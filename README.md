@@ -2,7 +2,7 @@
 
 Hello and welcome to my project!
 
-This is actually an upgrade to one of the first algorithms that I ever did - the original was written in paper and in a pseudo-programming language, so my objective with this project is to implement everything that my original algorith was supposed to do in a real programming language (Python) and to go even further beyond, with a few more features etc.
+This is actually an upgrade to one of the first algorithms that I ever made - the original was written just in pen and paper and also in a pseudo-programming language, so my objective with this project is to implement everything that my original algorith was supposed to do in a real programming language (Python) and to go even further beyond, with a few more features etc.
 
 The program presents three main arrays: meal, price and kcal, all of them with 12 values. The meals are separated in three categories: dish, dessert and drink, and each meal has its respective price and amount of calories. 
 
